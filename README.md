@@ -33,4 +33,6 @@ Running the test
 
     a. start the appium server with terminal or command prompt using this command = > appium --address 127.0.0.1 --port 4723
 
+    b. Make sure the respective emulator is running
+
     b. Go to the folder "Appium_JS" and start the execution using this command => npm test
